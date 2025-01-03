@@ -8,3 +8,8 @@ dependencies = [
     "opencv-python>=4.10.0.84",
     "selenium>=4.27.1",
 ]
+
+[dependency-groups]
+dev = [
+    "black>=24.10.0",
+]
